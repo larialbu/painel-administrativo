@@ -1,0 +1,12 @@
+.copy {
+    padding: 10px;
+    text-align: center;
+    bottom: 0;
+    position: fixed;
+    width: 50%;
+    justify-content: space-between;
+  }
+
+  p{
+    font-size: medium;
+  }
